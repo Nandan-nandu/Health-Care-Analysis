@@ -15,7 +15,7 @@ Monthly Trend Analysis-Outpatient/Day Case and Inpatient: This section shows a t
 ![FRONT](https://github.com/Nandan-nandu/Health-Care-Analysisi/assets/88129970/44ec44d0-2fa1-417b-b585-4d616bcac249)
 ![SECOND1](https://github.com/Nandan-nandu/Health-Care-Analysisi/assets/88129970/5dee4ab2-53a5-4d83-9ccc-d389981549bb)
 ![SECOND](https://github.com/Nandan-nandu/Health-Care-Analysisi/assets/88129970/5cfc4c63-46df-468f-8df0-9d6f5bc0c9e8)
-# ------------------------------------------------------------------------------
+# -----------------------------------------------------------------
 It provides a detiled view by using slicers (Date,Case Type,Speciality Name,Age Profile,Time Band)
 
 Archive Date: This column shows the date.
@@ -25,6 +25,6 @@ Outpatient: This column shows the number of outpatients on the Particular Date.
 Total: This column shows the total number of cases (Day Case, Inpatient, and Outpatient) on the Particular Date.
 
 ![DETAILED](https://github.com/Nandan-nandu/Health-Care-Analysisi/assets/88129970/abbb1d6e-37d6-40a6-9222-7e331427516a)
-# ------------------------------------------------------------------------------
+# --------------------------------------------------------------------
 The x-axis of the chart lists different specialty groups. The y-axis shows the number of people waiting in each specialty group.
 ![LAST DASHBOARD](https://github.com/Nandan-nandu/Health-Care-Analysisi/assets/88129970/4aa8d7f4-ab52-49e5-99e2-62d1d6dbc694)
